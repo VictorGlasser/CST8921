@@ -40,3 +40,7 @@
 ![alt text](image-14.png)
 ![alt text](image-15.png)
 The regions which offer file share exclude the regions that I have access to with my Azure Student subscription. As a result, I cannot create a file share, meaning I cannot complete this lab at this time.
+
+## Deleting Resources
+![alt text](image-16.png)
+![alt text](image-17.png)

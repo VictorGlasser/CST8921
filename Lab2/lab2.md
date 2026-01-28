@@ -36,7 +36,7 @@
 ![alt text](image-12.png)
 ![alt text](image-13.png)
 
-## Blocked from creating fileshare
+## Blocked from creating file share
 ![alt text](image-14.png)
 ![alt text](image-15.png)
 The regions which offer file share exclude the regions that I have access to with my Azure Student subscription. As a result, I cannot create a file share, meaning I cannot complete this lab at this time.

@@ -4,3 +4,6 @@
 
 ## Unable to access Azure Synapse Studio
 ![alt text](image-1.png)
+
+## Deleted Resources
+![alt text](image-2.png)

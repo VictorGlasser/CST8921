@@ -1,9 +1,18 @@
+import json
 import logging
-import azure.functions as func
+import requests
 
+def main(event):
+    logging.info("Event Grid trigger received")
 
-app = func.FunctionApp()
+    data = event.get_json()
+    blob_url = data["url"]
 
-@app.event_grid_trigger(arg_name="azeventgrid")
-def ProcessBlobUpload(azeventgrid: func.EventGridEvent):
-    logging.info('Python EventGrid trigger processed an event')
+    logging.info(f"Blob URL: {blob_url}")
+
+    # Download blob content
+    response = requests.get(blob_url)
+    blob_content = response.text
+
+    logging.info("Blob content retrieved successfully")
+    logging.info(blob_content)

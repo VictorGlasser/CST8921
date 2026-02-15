@@ -1,9 +1,12 @@
 # Lab 5 – Serverless Computing
 ## Created Storage Account with Blob Container
 ![alt text](image.png)
+
 ## Created Function App
+![alt text](image-2.png)
 
 ## Created Function
+![alt text](image-1.png)
 
 ## Created Event Subscription
 

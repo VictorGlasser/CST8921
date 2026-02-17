@@ -17,3 +17,6 @@ The objective of the lab is to host a static web app using a storage account.
 
 ## Demonstrated the 404 page when the path is incorrect
 ![alt text](image-4.png)
+
+## Deleted resources
+![alt text](image-5.png)

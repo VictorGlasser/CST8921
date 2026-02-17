@@ -1,0 +1,1 @@
+# Lab 6 – Hosting static web app on blob storage 
